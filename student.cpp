@@ -15,6 +15,9 @@ Student::Student() {
 	emailAddress = "Your valid email address";
 	age = 0;
 	degreeType = "Enter in degree type";
+	daysToCompleteEachCourse[0] = 0;
+	daysToCompleteEachCourse[1] = 0;
+	daysToCompleteEachCourse[2] = 0;
 }
 
 //mutators
