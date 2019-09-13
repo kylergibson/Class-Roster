@@ -12,31 +12,33 @@ public:
 
 	//constructor (defaults for new object)
 	Student();
+
+	//deconstructor
+	~Student();
+
 	//functions for StudentClass
 
-	//Student ID
+	//mutators
 	void setStudentID(string x);
-	string getStudentID();
-	//First name
 	void setFirstName(string x);
-	string getFirstName();
-	//Last Name
 	void setLastName(string x);
-	string getLastName();
-	//Email Address
 	void setEmail(string x);
-	string getEmail();
-	//Age
 	void setAge(unsigned int x);
-	unsigned int getAge();
-	//Days to complete Each Course
 	void setDaysToCompleteEachCourse(int x, int y, int z);
-	int getDaysToCompleteEachCourse();
-	//degreeType
 	void setDegreeType(string x);
+
+	//accessors
+	string getStudentID();
+	string getFirstName();
+	string getLastName();
+	string getEmail();
+	unsigned int getAge();
+	int getDaysToCompleteEachCourse();
 	string getDegreeType();
+
 	//print all data
 	void printAllData();
+
 private:
 	//variables for Student
 	string studentID;
