@@ -44,5 +44,8 @@
     <ClInclude Include="SoftwareStudent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Degree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
