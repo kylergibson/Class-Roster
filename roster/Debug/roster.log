@@ -1,0 +1,14 @@
+﻿  networkStudent.cpp
+  roster.cpp
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(63,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(76,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(84,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(99,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(116,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(151,27): warning C4018:  '<': signed/unsigned mismatch
+  securityStudent.cpp
+  softwareStudent.cpp
+  student.cpp
+  Generating Code...
+C:\Users\Kyle\Desktop\roster\roster\roster.cpp(175,23): warning C4018:  '<': signed/unsigned mismatch
+  roster.vcxproj -> C:\Users\Kyle\Desktop\roster\Debug\roster.exe
